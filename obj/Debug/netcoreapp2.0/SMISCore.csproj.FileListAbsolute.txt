@@ -1,0 +1,10 @@
+E:\myproject\SMISCore\bin\Debug\netcoreapp2.0\SMISCore.deps.json
+E:\myproject\SMISCore\bin\Debug\netcoreapp2.0\SMISCore.runtimeconfig.json
+E:\myproject\SMISCore\bin\Debug\netcoreapp2.0\SMISCore.runtimeconfig.dev.json
+E:\myproject\SMISCore\bin\Debug\netcoreapp2.0\SMISCore.dll
+E:\myproject\SMISCore\bin\Debug\netcoreapp2.0\SMISCore.pdb
+E:\myproject\SMISCore\obj\Debug\netcoreapp2.0\SMISCore.csproj.CoreCompileInputs.cache
+E:\myproject\SMISCore\obj\Debug\netcoreapp2.0\SMISCore.AssemblyInfoInputs.cache
+E:\myproject\SMISCore\obj\Debug\netcoreapp2.0\SMISCore.AssemblyInfo.cs
+E:\myproject\SMISCore\obj\Debug\netcoreapp2.0\SMISCore.dll
+E:\myproject\SMISCore\obj\Debug\netcoreapp2.0\SMISCore.pdb
